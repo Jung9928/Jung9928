@@ -10,7 +10,8 @@
     <a href="" target="_blank"> <img src="https://img.icons8.com/?size=512&id=40670&format=png" alt="c" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://ih1.redbubble.net/image.2505685187.5563/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="vue" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="gatsby" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://cdn.prod.website-files.com/631ae728275816a6f6d5e658/651d91757e5c8b843cda5cb7_oracle.png" alt="gatsby" width="40" height="40"/> </a>
     
 
 <h2 align="left">:hammer_and_wrench: Knowledge</h2>
