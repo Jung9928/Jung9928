@@ -6,8 +6,8 @@
 <p align="left">
     <a href="https://spring.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/> </a>
     <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank"> <img src="https://w7.pngwing.com/pngs/322/656/png-transparent-x86-64-64-bit-computing-central-processing-unit-computer-icons-hardware-computer-text-rectangle-logo.png" alt="sass" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://w7.pngwing.com/pngs/322/656/png-transparent-x86-64-64-bit-computing-central-processing-unit-computer-icons-hardware-computer-text-rectangle-logo.png" alt="sass" width="40" height="40"/> </a>
+    <a href="" target="_blank"> <img src="https://img.icons8.com/?size=512&id=40670&format=png" alt="javascript" width="40" height="40"/> </a>
 <a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
