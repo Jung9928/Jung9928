@@ -1,6 +1,6 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 
-
+3년차 백엔드 개발자 Jung 입니다.
 
 <h2 align="left">:hammer_and_wrench: skill:</h2>
 <p align="left">
