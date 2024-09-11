@@ -13,13 +13,12 @@
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="gatsby" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://cdn.prod.website-files.com/631ae728275816a6f6d5e658/651d91757e5c8b843cda5cb7_oracle.png" alt="gatsby" width="40" height="40"/> </a>
     
-
+<!--
 <h2 align="left">:hammer_and_wrench: Knowledge</h2>
 
 
 <h2 align="left">:hammer_and_wrench: Experience</h2>
- 
-    </p>
+ -->
 
 
 <!--
