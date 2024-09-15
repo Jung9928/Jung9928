@@ -17,9 +17,9 @@
   <img src="https://img.shields.io/badge/x86%20asm-20232a.svg?style=for-the-badge&logo=x86%20asm&logoColor=61DAFB" 
 />&nbsp
 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" 
 />
-  <img src="https://img.shields.io/badge/-Oracle-C0C0C0?logo=Oracle&logoColor=F80000" 
+  <img src="https://img.shields.io/badge/-Oracle-C0C0C0?style=for-the-badge&logo=Oracle&logoColor=F80000" 
 />
 </div>
 
