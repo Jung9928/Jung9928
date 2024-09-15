@@ -2,6 +2,14 @@
 
 3년차 백엔드 개발자 홍정완 입니다.
 
+## 연락처
+
+[📧 fg44irks@gmail.com](mailto:fg44irks@gmail.com)
+
+[📁 GitHub: Jung9928](https://github.com/Jung9928)
+
+<br>
+
 ## ✨ Tech Stack ✨
 <div align="left">
 <img src="https://img.shields.io/badge/spring-088A29.svg?style=for-the-badge&logo=spring&logoColor=white" 
