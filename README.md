@@ -13,14 +13,14 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" 
 />&nbsp
   <img src="https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white" 
-/>
+/>&nbsp
   <img src="https://img.shields.io/badge/x86%20asm-20232a.svg?style=for-the-badge&logo=x86%20asm&logoColor=61DAFB" 
-/>
+/>&nbsp
 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" 
-/>&nbsp
+/>
   <img src="https://img.shields.io/badge/-Oracle-C0C0C0?logo=Oracle&logoColor=F80000" 
-/>&nbsp
+/>
 </div>
 
 
