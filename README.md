@@ -36,11 +36,17 @@
 </div>
 
 
+<br>
+
+
 ## 📚 Studying 📚
 <div align="left">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />&nbsp
 </div>
+
+
+<br>
 
 
 ## 🛠 Tools 🛠
