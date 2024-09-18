@@ -54,6 +54,6 @@
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/visual studio-007ACC?style=for-the-badge&logo=visual studio&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/mobaXterm-111112?style=for-the-badge&logo=mobaXterm&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/PyCharm-000000?logo=PyCharm&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/mobaXterm-000000?style=for-the-badge&logo=mobaXterm&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white" />&nbsp
 </div>
