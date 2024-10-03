@@ -56,6 +56,5 @@
   <img src="https://img.shields.io/badge/visual studio-007ACC?style=for-the-badge&logo=visual studio&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/mobaXterm-000000?style=for-the-badge&logo=mobaXterm&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white" />&nbsp
-  <img src="https://camo.githubusercontent.com/f46e7a38c4f00b8371649aba59e50cd729b825f7d5cb23fc3ad995b71247f537/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46696c657a696c6c612d4246303030303f7374796c653d666c61742d737175617265266c6f676f3d46696c657a696c6c61266c6f676f436f6c6f723d7768697465" />&nbsp
   
 </div>
