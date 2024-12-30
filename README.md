@@ -16,7 +16,7 @@
 <div align="left">
 <img src="https://img.shields.io/badge/spring-088A29.svg?style=for-the-badge&logo=spring&logoColor=white" 
 />&nbsp
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"
 />&nbsp
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" 
 />&nbsp
