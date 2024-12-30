@@ -22,6 +22,10 @@
 />&nbsp
   <img src="https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white"
 />&nbsp
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
+/>&nbsp
+  <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge"
+/>&nbsp
   <img src="https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white" 
 />&nbsp
   <img src="https://img.shields.io/badge/x86%20asm-20232a.svg?style=for-the-badge&logo=x86%20asm&logoColor=61DAFB" 
