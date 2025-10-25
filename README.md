@@ -30,6 +30,11 @@ Hi
 />
   <img src="https://img.shields.io/badge/Spring_data_jpa-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white" 
 />
+/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" 
+/>
+
+  
 </div>
 
 
@@ -57,5 +62,6 @@ Hi
   <img src="https://img.shields.io/badge/visual studio-007ACC?style=for-the-badge&logo=visual studio&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/mobaXterm-000000?style=for-the-badge&logo=mobaXterm&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white" />&nbsp
-  
+  <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />&nbsp
 </div>
